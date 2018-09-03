@@ -1,0 +1,29 @@
+{
+  "name": "association_robotique",
+  "version": "1.0.0",
+  "description": "Association Robotique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qrames/association_robotique.git"
+  },
+  "keywords": [
+    "Mende",
+    "Lozere",
+    "robotique",
+    "association",
+    "scolaire",
+    "pedagogie",
+    "Arduino",
+    "Raspberry"
+  ],
+  "author": "Quentin Rames Hermelen Peris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qrames/association_robotique/issues"
+  },
+  "homepage": "https://github.com/qrames/association_robotique#readme"
+}
