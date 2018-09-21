@@ -1,0 +1,4 @@
+Django==1.11.15
+Pillow==5.2.0
+django-widget-tweaks
+django-taggit
